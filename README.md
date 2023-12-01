@@ -1,6 +1,8 @@
 
 # React-add-customers-list
 
+### Link to [Demo](https://dzenishus.github.io/react-add-customers-list/)
+
 ### Available Script
 
 In the project directory, you can run:
